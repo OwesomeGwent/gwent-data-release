@@ -1,4 +1,4 @@
-# gwent-data
+# gwent-data-release
 
 json parsed gwent data repo
 
